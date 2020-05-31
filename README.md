@@ -1,1 +1,3 @@
-#esta es la documentacion del proyecto
+#Documentacion del proyecto
+
+Repasando GIT :)
