@@ -10,3 +10,8 @@ body {
 h2 {
   color: white;
 }
+
+.master {
+  border: none;
+  margin: 0;
+}
